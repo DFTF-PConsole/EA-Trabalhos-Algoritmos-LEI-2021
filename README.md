@@ -11,7 +11,7 @@ EA - Estratégias Algorítmicas
 
 ## Trabalhos
 
-* Problema A: Problem A - 2048 clean up!
+* Problema A: 2048 clean up!
 * Problema B: ARChitecture
 * Problema C: Bike Lanes
 
