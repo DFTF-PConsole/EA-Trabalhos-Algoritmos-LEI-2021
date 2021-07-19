@@ -1,4 +1,4 @@
-# EA-Trabalhos-Algoritmos-LEI-2021
+# EA Trabalhos Algoritmos LEI 2021
 
 
 PUBLIC
