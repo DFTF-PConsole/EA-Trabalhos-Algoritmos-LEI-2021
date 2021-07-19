@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/EA-Trabalhos-2021/Problema C/ProjAux/header_testes.h
+cstdio
+-
+iostream
+-
+
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/EA-Trabalhos-2021/Problema C/ProjAux/header_trab.h
+iostream
+-
+algorithm
+-
+list
+-
+deque
+-
+stack
+-
+
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/EA-Trabalhos-2021/Problema C/ProjAux/trab.cpp
+header_trab.h
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/EA-Trabalhos-2021/Problema C/ProjAux/header_trab.h
+header_testes.h
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/EA-Trabalhos-2021/Problema C/ProjAux/header_testes.h
+

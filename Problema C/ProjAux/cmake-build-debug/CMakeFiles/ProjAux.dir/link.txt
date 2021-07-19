@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -Wextra -g -Wl,--enable-auto-import CMakeFiles/ProjAux.dir/main.cpp.o CMakeFiles/ProjAux.dir/testes.cpp.o CMakeFiles/ProjAux.dir/trab.cpp.o -o ProjAux.exe -Wl,--out-implib,libProjAux.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

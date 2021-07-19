@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ProjAux" targetName="ProjAux" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="080c8451-6336-43ae-88ac-d52b7ac9103c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Problema C/Problem C - Bike Lanes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/.idea/ProjAux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/testes.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/ProjAux.dir/trab.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/ProjAux.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/ProjAux.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/header_testes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/header_trab.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/testes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/testes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Problema C/ProjAux/trab.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Problema C/ProjAux/none" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/trab.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testes.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/header_testes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/header_trab.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testes.txt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1rJ9EvCmwbO8gduM8Mj6oQTjIIc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProjAux" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ProjAux" TARGET_NAME="ProjAux" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProjAux" RUN_TARGET_NAME="ProjAux">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="080c8451-6336-43ae-88ac-d52b7ac9103c" name="Default Changelist" comment="" />
+      <created>1618683217612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618683217612</updated>
+      <workItem from="1618683219138" duration="1459000" />
+      <workItem from="1619111639440" duration="14544000" />
+      <workItem from="1619284937034" duration="4000" />
+      <workItem from="1619315843969" duration="7090000" />
+      <workItem from="1619323057812" duration="368000" />
+      <workItem from="1619370327780" duration="366000" />
+      <workItem from="1619370768796" duration="6536000" />
+      <workItem from="1619404498348" duration="4486000" />
+      <workItem from="1619812324617" duration="34000" />
+      <workItem from="1619881882725" duration="7168000" />
+      <workItem from="1619900588446" duration="5257000" />
+      <workItem from="1620320954968" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
